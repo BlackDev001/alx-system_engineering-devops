@@ -1,1 +1,1 @@
-Shell navigation project
+Shell redirections
